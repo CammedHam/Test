@@ -1,7 +1,6 @@
-def print_hell0():
-	# TODO: FIXME!!!!!!
-    print('HeL10!1!!')
+def print_hello():
+    print('Hello!')
 
 
 if __name__ == '__main__':
-    print_hell0()
+    print_hello()
